@@ -79,7 +79,7 @@ portfolio_link.addEventListener("click", function (event) {
                         <i id ="stackBS" class="devicon-bootstrap-plain-wordmark colored"></i>\
                     </div>\
                     <div class="card-footer">\
-                    <a target="_blank" href="https://github.com/chungd87/Dungeons-and-Dragons-Character-Sheet-Tracker">\
+                    <a target="_blank" href="https://github.com/chungd87/portfolio-website">\
                     <small class="text-muted"><i id = "Gicon" class="devicon-github-original-wordmark colored"></i></small></a>\
                     </div>\
                 </div>\
