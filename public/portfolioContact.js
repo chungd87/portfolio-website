@@ -21,7 +21,7 @@ contact_link.addEventListener("click", function (event) {
         <div class="container">\
         <div class="row">\
             <div class="col">\
-            <form action="fa9f59963c58460c9090ac7de0e761df" method="POST">\
+            <form action="https://formsubmit.co/fa9f59963c58460c9090ac7de0e761df" method="POST">\
             <input type="hidden" name="_next" value="">\
             <input type="hidden" name="_subject" value="Portfolio Email">\
             <label for = "email">Email: </label><br>\
