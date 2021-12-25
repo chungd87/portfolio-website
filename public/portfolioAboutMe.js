@@ -29,8 +29,8 @@ about_me.addEventListener("click", function (event) {
     </div>\
         <div class = "col">\
         <p>I am working on my B.S. in Computer Science, with an expected graudation date of September 2022.\
-        Currently looking for an entry level position or internship in a remote position, and a lifelong career in the field. It is after practicing dentistry for seven years\
-        that I have finally begun pursuing my true lifelong passion of computer programming! </p>\
+        Currently looking for an entry level or internship role in a remote position, and a lifelong career in the field. After having practiced dentistry for\
+        seven years, I have developed great intepersonal, communication, and leadership skills. I am now pursuing my true lifelong passion of computer programming! </p>\
         </div>\
     </div>\
     </div>\

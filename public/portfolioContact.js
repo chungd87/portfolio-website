@@ -21,14 +21,14 @@ contact_link.addEventListener("click", function (event) {
         <div class="container">\
         <div class="row">\
             <div class="col">\
-            <form action="https://formsubmit.co/chungdan@oregonstate.edu" method="POST">\
+            <form action="fa9f59963c58460c9090ac7de0e761df" method="POST">\
             <input type="hidden" name="_next" value="">\
             <input type="hidden" name="_subject" value="Portfolio Email">\
             <label for = "email">Email: </label><br>\
             <input type="email" size ="57" placeholder = "Your Email Address" name="email" required><br>\
             <label for = "subject">Subject: </label><br>\
             <input type="textarea" size ="57" placeholder = "Your Subject" name="subject" required><br>\
-            <textarea style = "resize: none" rows = "5" cols = "60" name = "body" placeholder = "Your Message Here."></textarea><br>\
+            <textarea style = "resize: none" rows = "5" cols = "60" name = "body" placeholder = "Your message here."></textarea><br>\
             <button class="btn btn-outline-dark" type="submit">Send</button>\
         </form>\
         </div>'
