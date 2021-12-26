@@ -12,7 +12,7 @@ portfolio_link.addEventListener("click", function (event) {
 
     screen_content.innerHTML = '\
     <h1 id = "contentStyle">Portfolio</h1><br>\
-    <div class = "container" style = "overflow-x: scroll;">\
+    <div class = "container" style = "overflow-x: scroll; min-width: 1000px;">\
         <div class = "row flex-nowrap" style="min-height: 400px; max-height: 800px; min-width: 1000px; overflow-x: auto;">\
             <div class="col-3">\
                 <div class="card card-block" style = "margin: 5px; background-color: #f2f2f2;">\
