@@ -4,12 +4,8 @@ a {
 }
 
 body {
-  min-width: 900px;
+  min-width: 1050px;
 }
-
-/* * {
-  outline: solid 1px red;
-} */
 
 #portf {
     padding-top: 5px;
