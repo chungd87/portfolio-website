@@ -28,7 +28,7 @@ contact_link.addEventListener("click", function (event) {
             <input type="email" size ="57" placeholder = "Your Email Address" name="email" required><br>\
             <label for = "subject">Subject: </label><br>\
             <input type="textarea" size ="57" placeholder = "Your Subject" name="subject" required><br>\
-            <textarea style = "resize: none" rows = "5" cols = "60" name = "body" placeholder = "Your message here."></textarea><br>\
+            <textarea style = "resize: none" rows = "5" cols = "58" name = "body" placeholder = "Your message here."></textarea><br>\
             <button class="btn btn-outline-dark" type="submit">Send</button>\
         </form>\
         </div>'
