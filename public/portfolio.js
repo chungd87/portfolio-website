@@ -15,7 +15,7 @@ portfolio_link.addEventListener("click", function (event) {
     <div class = "container" style = "overflow-x: auto; min-width: 900px;">\
         <div class = "row flex-nowrap" style="min-height: 400px; max-height: 800px; min-width: 900px; overflow-x: auto;">\
             <div class="col-4">\
-                <div class="card card-block" style = "margin: 5px; background-color: #f2f2f2;  height: 575px;">\
+                <div class="card card-block" style = "margin: 5px; background-color: #f2f2f2;  height: 700px; overflow-y: auto;">\
                     <a target="_blank" href="https://drive.google.com/file/d/1sv7JQSEfy014Vgq-lzecUOyAFoTxk5Ry/view?usp=sharing">\
                         <img style = "width: 100%; max-height: 155px;" class="card-img-top" src="./public/project1.png" alt="Card image cap"></a>\
                     <div class="card-body">\
@@ -33,7 +33,7 @@ portfolio_link.addEventListener("click", function (event) {
                 </div>\
             </div >\
             <div class="col-4">\
-                <div class="card card-block" style = "margin: 5px; background-color: #f2f2f2; height: 575px;">\
+                <div class="card card-block" style = "margin: 5px; background-color: #f2f2f2; height: 700px;  overflow-y: auto;">\
                     <a target="_blank" href="https://drive.google.com/file/d/1lIGzzoGfqIDN1CeZrr2dtdhMqAuaD8T0/view?usp=sharing">\
                         <img style = "width: 100%; max-height: 155px;" class="card-img-top" src="./public/project2.png" alt="Card image cap"></a>\
                     <div class="card-body">\
@@ -55,7 +55,7 @@ portfolio_link.addEventListener("click", function (event) {
                 </div>\
             </div >\
             <div class="col-4">\
-            <div class="card card-block" style = "margin: 5px; background-color: #f2f2f2; height: 575px;">\
+            <div class="card card-block" style = "margin: 5px; background-color: #f2f2f2; height: 700px; overflow-y: auto;">\
                     <img style = "width: 100%; max-height: 155px;" class="card-img-top" src="./public/portfvidstillsmall.bmp" alt="Card image cap">\
                 <div class="card-body">\
                     <h5 class="card-title" style = "font-weight: bold;">Portfolio Website Code Repository</h5><br>\
@@ -72,7 +72,7 @@ portfolio_link.addEventListener("click", function (event) {
             </div>\
         </div >\
             <div class="col-4">\
-                <div class="card card-block" style = "margin: 5px; background-color: #f2f2f2; height: 575px;">\
+                <div class="card card-block" style = "margin: 5px; background-color: #f2f2f2; height: 700px; overflow-y: auto;">\
                         <img style = "width: 100%; max-height: 155px;" class="card-img-top" src="./public/soon.png" alt="Card image cap">\
                     <div class="card-body">\
                         <h5 class="card-title"></h5>\
