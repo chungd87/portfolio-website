@@ -21,7 +21,7 @@ portfolio_link.addEventListener("click", function (event) {
                     <div class="card-body">\
                         <h5 class="card-title" style = "font-weight: bold;">D&D Character Sheet App</h5>\
                         <p class="card-text">Windows app made for streamlining the in person D&D player experience. Writes and loads data from .json and .csv into the User Interface made with tkinter.\
-                        Simple local database interaction with SQLite for random fantasy name generation.</p><br>\
+                        Simple local database interaction with SQLite for random fantasy name generation.</p>\
                         <i id ="stackP" class="devicon-python-plain-wordmark colored"></i>\
                         <img src="./icons/csv.png" height = "30" style = "margin-top: -35px; margin-left: 5px;">\
                         <img src="./icons/json.png" height = "28" style = "margin-top: -35px; margin-left: 5px;">\
@@ -38,7 +38,7 @@ portfolio_link.addEventListener("click", function (event) {
                         <img style = "width: 100%; max-height: 155px;" class="card-img-top" src="./public/project2.png" alt="Card image cap"></a>\
                     <div class="card-body">\
                         <h5 class="card-title" style = "font-weight: bold;">Movie Studio Database WebApp</h5>\
-                        <p class="card-text">Designed for a fictional movie studio, this back-end focused web app tracks their budget and entities.\
+                        <p class="card-text">Designed for a fictional studio, back-end focused web app tracks their budget and entities.\
                         Database interaction with MySQL, display of data with Express. Javascript and Node. Group project.</p>\
                         <i id ="stackH" class="devicon-html5-plain-wordmark colored"></i>\
                         <i id ="stackCSS" class="devicon-css3-plain-wordmark colored"></i>\
