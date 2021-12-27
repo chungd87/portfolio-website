@@ -13,7 +13,7 @@ portfolio_link.addEventListener("click", function (event) {
     screen_content.innerHTML = '\
     <h1 id = "contentStyle">Portfolio</h1><br>\
     <div class = "container" style = "overflow-x: auto; min-width: 900px;">\
-        <div class = "row flex-nowrap" style="min-height: 400px; max-height: 800px; min-width: 900px; overflow-x: auto;">\
+        <div class = "row flex-nowrap" style="min-height: 400px; max-height: 800px; min-width: 900px; overflow-x: scroll;">\
             <div class="col-4">\
                 <div class="card card-block" style = "margin: 5px; background-color: #f2f2f2;  height: 700px; overflow-y: auto;">\
                     <a target="_blank" href="https://drive.google.com/file/d/1sv7JQSEfy014Vgq-lzecUOyAFoTxk5Ry/view?usp=sharing">\
@@ -38,8 +38,8 @@ portfolio_link.addEventListener("click", function (event) {
                         <img style = "width: 100%; max-height: 155px;" class="card-img-top" src="./public/project2.png" alt="Card image cap"></a>\
                     <div class="card-body">\
                         <h5 class="card-title" style = "font-weight: bold;">Movie Studio Database WebApp</h5><br>\
-                        <p style = "font-size: 13.5px" class="card-text">Designed for a fictional movie studio, this back-end focused web app tracks their budget and entities.\
-                        Database interaction with MySQL, display of data with Express. Javascript and Node. Collaborative partner project (Danny Chung and Hailee Hibray).</p><br><br>\
+                        <p class="card-text">Designed for a fictional movie studio, this back-end focused web app tracks their budget and entities.\
+                        Database interaction with MySQL, display of data with Express. Javascript and Node. Group project.</p><br>\
                         <i id ="stackH" class="devicon-html5-plain-wordmark colored"></i>\
                         <i id ="stackCSS" class="devicon-css3-plain-wordmark colored"></i>\
                         <i id ="stackJS" class="devicon-javascript-plain colored"></i>\
