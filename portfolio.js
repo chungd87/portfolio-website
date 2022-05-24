@@ -16,63 +16,6 @@ portfolio_link.addEventListener("click", function (event) {
         <div class = "row flex-nowrap" style="min-height: 400px; max-height: 800px; min-width: 900px; overflow-x: scroll;">\
             <div class="col-4">\
                 <div class="card card-block" style = "margin: 5px; background-color: #f2f2f2;  height: 575px; overflow-y: auto;">\
-                    <a target="_blank" href="https://github.com/chungd87/Image-to-Grid-Conversion-Algorithm">\
-                        <img style = "width: 100%; max-height: 155px;" class="card-img-top" src="./public/algoproj.png" alt="Card image cap"></a>\
-                    <div class="card-body">\
-                        <h5 class="card-title" style = "font-weight: bold;">Image to 2D Array Conversion Algorithm</h5>\
-                        <p class="card-text">Designed and implemented an algorithm, utilizing Computer Vision, to transform \
-                        a drawn maze image on graph paper into a 2D array. Created a feature in a video game for users to draw out their own custom \
-                        dungeon maze.</p>\
-                        <i id ="stackP" class="devicon-python-plain-wordmark colored"></i>\
-                        <img src="./icons/openCV.png" height = "30" style = "margin-top: -35px; margin-left: 5px;">\
-                    </div>\
-                    <div class="card-footer">\
-                        <a target="_blank" href="https://github.com/chungd87/Image-to-Grid-Conversion-Algorithm">\
-                        <small class="text-muted"><i id = "Gicon" class="devicon-github-original-wordmark colored"></i></small></a>\
-                    </div>\
-                </div>\
-            </div >\
-            <div class="col-4">\
-                <div class="card card-block" style = "margin: 5px; background-color: #f2f2f2; height: 625px;  overflow-y: auto;">\
-                    <a target="_blank" href="https://drive.google.com/file/d/1lIGzzoGfqIDN1CeZrr2dtdhMqAuaD8T0/view?usp=sharing">\
-                        <img style = "width: 100%; max-height: 155px;" class="card-img-top" src="./public/project2.png" alt="Card image cap"></a>\
-                    <div class="card-body">\
-                        <h5 class="card-title" style = "font-weight: bold;">Movie Studio Database Website</h5>\
-                        <p class="card-text">Designed for a fictional studio, back-end focused web app tracks their budget and entities.\
-                        Database interaction with MySQL, display of data with Express. Javascript and Node. Group project.</p>\
-                        <i id ="stackH" class="devicon-html5-plain-wordmark colored"></i>\
-                        <i id ="stackCSS" class="devicon-css3-plain-wordmark colored"></i>\
-                        <i id ="stackJS" class="devicon-javascript-plain colored"></i>\
-                        <i id ="stackN" class="devicon-nodejs-plain-wordmark colored"></i>\
-                        <i id ="stackE" class="devicon-express-original-wordmark colored"></i>\
-                        <i id ="stackMSQ" class="devicon-mysql-plain-wordmark colored"></i>\
-                    </div>\
-                    <div class="card-footer">\
-                        <a target="_blank" href="https://github.com/chungd87/Movie-Studio-Database">\
-                        <small class="text-muted"><i id = "Gicon" class="devicon-github-original-wordmark colored"></i></small></a>\
-                        <a title = "Link to Live Version" target="_blank" href="https://moviedatabasedb.herokuapp.com/"><img src="./icons/livelink.png" height = "30" style = "margin-top: -45px; margin-left: 15px;"></a>\
-                    </div>\
-                </div>\
-            </div >\
-            <div class="col-4">\
-            <div class="card card-block" style = "margin: 5px; background-color: #f2f2f2;  height: 575px; overflow-y: auto;">\
-                <a target="_blank" href="https://github.com/chungd87/small_unix_shell">\
-                    <img style = "width: 100%; max-height: 155px;" class="card-img-top" src="./public/shell.png" alt="Card image cap"></a>\
-                <div class="card-body">\
-                    <h5 class="card-title" style = "font-weight: bold;">Custom Linux Shell</h5>\
-                    <p class="card-text">Custom Linux shell with support for background and foreground processes. \
-                    Manually built commands for cd, status, and I/O redirection. Other commands sent to \
-                    exec() family. Handles memory management and termination for child processes.</p>\
-                    <i id = "stackC" class="devicon-c-plain-wordmark colored"></i>\
-                </div>\
-                <div class="card-footer">\
-                    <a target="_blank" href="https://github.com/chungd87/small_unix_shell">\
-                    <small class="text-muted"><i id = "Gicon" class="devicon-github-original-wordmark colored"></i></small></a>\
-                </div>\
-            </div>\
-            </div >\
-            <div class="col-4">\
-                <div class="card card-block" style = "margin: 5px; background-color: #f2f2f2;  height: 575px; overflow-y: auto;">\
                     <a target="_blank" href="https://drive.google.com/file/d/1sv7JQSEfy014Vgq-lzecUOyAFoTxk5Ry/view?usp=sharing">\
                         <img style = "width: 100%; max-height: 155px;" class="card-img-top" src="./public/project1.png" alt="Card image cap"></a>\
                     <div class="card-body">\
@@ -86,6 +29,28 @@ portfolio_link.addEventListener("click", function (event) {
                     <div class="card-footer">\
                         <a target="_blank" href="https://github.com/chungd87/Dungeons-and-Dragons-Character-Sheet-Tracker">\
                         <small class="text-muted"><i id = "Gicon" class="devicon-github-original-wordmark colored"></i></small></a>\
+                    </div>\
+                </div>\
+            </div >\
+            <div class="col-4">\
+                <div class="card card-block" style = "margin: 5px; background-color: #f2f2f2; height: 625px;  overflow-y: auto;">\
+                    <a target="_blank" href="https://drive.google.com/file/d/1lIGzzoGfqIDN1CeZrr2dtdhMqAuaD8T0/view?usp=sharing">\
+                        <img style = "width: 100%; max-height: 155px;" class="card-img-top" src="./public/project2.png" alt="Card image cap"></a>\
+                    <div class="card-body">\
+                        <h5 class="card-title" style = "font-weight: bold;">Movie Studio Database WebApp</h5>\
+                        <p class="card-text">Designed for a fictional studio, back-end focused web app tracks their budget and entities.\
+                        Database interaction with MySQL, display of data with Express. Javascript and Node. Group project.</p>\
+                        <i id ="stackH" class="devicon-html5-plain-wordmark colored"></i>\
+                        <i id ="stackCSS" class="devicon-css3-plain-wordmark colored"></i>\
+                        <i id ="stackJS" class="devicon-javascript-plain colored"></i>\
+                        <i id ="stackN" class="devicon-nodejs-plain-wordmark colored"></i>\
+                        <i id ="stackE" class="devicon-express-original-wordmark colored"></i>\
+                        <i id ="stackMSQ" class="devicon-mysql-plain-wordmark colored"></i>\
+                    </div>\
+                    <div class="card-footer">\
+                        <a target="_blank" href="https://github.com/chungd87/Movie-Studio-Database">\
+                        <small class="text-muted"><i id = "Gicon" class="devicon-github-original-wordmark colored"></i></small></a>\
+                        <a title = "Link to Live Version" target="_blank" href="https://moviedatabasedb.herokuapp.com/"><img src="./icons/livelink.png" height = "30" style = "margin-top: -45px; margin-left: 15px;"></a>\
                     </div>\
                 </div>\
             </div >\
@@ -105,6 +70,21 @@ portfolio_link.addEventListener("click", function (event) {
                 <small class="text-muted"><i id = "Gicon" class="devicon-github-original-wordmark colored"></i></small></a>\
                 </div>\
             </div>\
+        </div >\
+            <div class="col-4">\
+                <div class="card card-block" style = "margin: 5px; background-color: #f2f2f2; height: 625px; overflow-y: auto;">\
+                        <img style = "width: 100%; max-height: 155px;" class="card-img-top" src="./public/soon.png" alt="Card image cap">\
+                    <div class="card-body">\
+                        <h5 class="card-title"></h5>\
+                        <p class="card-text"></p>\
+                        <i id = "stackC" class="devicon-c-plain-wordmark colored"></i>\
+                    </div>\
+                    <div class="card-footer">\
+                        <small class="text-muted"></small>\
+                    </div>\
+                </div>\
+            </div >\
+        </div>\
     </div>\
     '
 });

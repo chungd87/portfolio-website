@@ -21,7 +21,7 @@ contact_link.addEventListener("click", function (event) {
         <div class="container">\
         <div class="row">\
             <div class="col">\
-            <form action="https://formsubmit.co/fa9f59963c58460c9090ac7de0e761df" method="POST">\
+            <form action="https://formsubmit.io/send/9eddbed9-7fc4-4c4f-b1a1-c3b04e7b7a6e" method="POST">\
             <input type="hidden" name="_next" value="http://web.engr.oregonstate.edu/~chungdan/thanks.html">\
             <input type="hidden" name="_subject" value="Portfolio Email">\
             <label for = "email">Email: </label><br>\

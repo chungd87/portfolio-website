@@ -28,8 +28,8 @@ about_me.addEventListener("click", function (event) {
         <i class="devicon-c-line-wordmark"></i>\
     </div>\
         <div class = "col">\
-        <p>I am working on my B.S. in Computer Science, with an expected graudation date of September 2022.\
-        Currently looking for an entry level or internship role in a remote position, and a lifelong career in the field. After having practiced dentistry for\
+        <p>As of June 2022, I obtained my B.S. in Computer Science from Oregon State University.\
+        Currently, I am looking for an entry level role in a remote position, or in Las Vegas or Socal. After having practiced dentistry for\
         seven years, I have developed great intepersonal, communication, and leadership skills. I am now pursuing my true lifelong passion of computer programming! </p>\
         </div>\
     </div>\
